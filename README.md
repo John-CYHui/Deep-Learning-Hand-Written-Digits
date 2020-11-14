@@ -1,2 +1,2 @@
 # Neural-Network
-Neural Network on Hand Written Digits Problem
+Neural Network and Random Forest algorithm on Hand Written Digits Problem
